@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&family=Lexend&family=Poppins&display=swap");
+html {
+  height: 100%;
+}
+
+body {
+  background: rgb(42, 227, 240);
+  background: linear-gradient(0deg, rgba(42, 227, 240, 0.8477984944) 0%, rgba(169, 0, 255, 0.4528405112) 16%);
+}
+
+#app {
+  text-align: center;
+  padding: 5px;
+  min-width: 500px;
+  max-width: 1100px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+  font-family: Lexend;
+}
+#app img {
+  margin-bottom: 10px;
+}
+#app input {
+  margin-bottom: 5px;
+}
+#app button {
+  font-family: Lexend;
+  display: inline-block;
+  border: none;
+  padding: 1rem 2rem;
+  margin: 0;
+  text-decoration: none;
+  background: #73d34a;
+  color: #ffffff;
+  font-family: sans-serif;
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
